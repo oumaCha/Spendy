@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oumai\\source\\repos\\Spendsmart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5A9A71-742D-40BA-BEC1-BD1C237FF8F2}|Spendsmart\\Spendsmart.csproj|c:\\users\\oumai\\source\\repos\\spendsmart\\spendsmart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5A9A71-742D-40BA-BEC1-BD1C237FF8F2}|Spendsmart\\Spendsmart.csproj|solutionrelative:spendsmart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5A9A71-742D-40BA-BEC1-BD1C237FF8F2}|Spendsmart\\Spendsmart.csproj|c:\\users\\oumai\\source\\repos\\spendsmart\\spendsmart\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5A9A71-742D-40BA-BEC1-BD1C237FF8F2}|Spendsmart\\Spendsmart.csproj|solutionrelative:spendsmart\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5A9A71-742D-40BA-BEC1-BD1C237FF8F2}|Spendsmart\\Spendsmart.csproj|c:\\users\\oumai\\source\\repos\\spendsmart\\spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5A9A71-742D-40BA-BEC1-BD1C237FF8F2}|Spendsmart\\Spendsmart.csproj|solutionrelative:spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5A9A71-742D-40BA-BEC1-BD1C237FF8F2}|Spendsmart\\Spendsmart.csproj|c:\\users\\oumai\\source\\repos\\spendsmart\\spendsmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5A9A71-742D-40BA-BEC1-BD1C237FF8F2}|Spendsmart\\Spendsmart.csproj|solutionrelative:spendsmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5A9A71-742D-40BA-BEC1-BD1C237FF8F2}|Spendsmart\\Spendsmart.csproj|c:\\users\\oumai\\source\\repos\\spendsmart\\spendsmart\\models\\spendsmartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5A9A71-742D-40BA-BEC1-BD1C237FF8F2}|Spendsmart\\Spendsmart.csproj|solutionrelative:spendsmart\\models\\spendsmartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5A9A71-742D-40BA-BEC1-BD1C237FF8F2}|Spendsmart\\Spendsmart.csproj|c:\\users\\oumai\\source\\repos\\spendsmart\\spendsmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5A9A71-742D-40BA-BEC1-BD1C237FF8F2}|Spendsmart\\Spendsmart.csproj|solutionrelative:spendsmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oumai\\source\\repos\\Spendsmart\\Spendsmart\\Program.cs",
+              "RelativeDocumentMoniker": "Spendsmart\\Program.cs",
+              "ToolTip": "C:\\Users\\oumai\\source\\repos\\Spendsmart\\Spendsmart\\Program.cs",
+              "RelativeToolTip": "Spendsmart\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:26:11.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpendSmartDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\oumai\\source\\repos\\Spendsmart\\Spendsmart\\Models\\SpendSmartDbContext.cs",
+              "RelativeDocumentMoniker": "Spendsmart\\Models\\SpendSmartDbContext.cs",
+              "ToolTip": "C:\\Users\\oumai\\source\\repos\\Spendsmart\\Spendsmart\\Models\\SpendSmartDbContext.cs",
+              "RelativeToolTip": "Spendsmart\\Models\\SpendSmartDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:19:53.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateEditExpense.cshtml",
+              "DocumentMoniker": "C:\\Users\\oumai\\source\\repos\\Spendsmart\\Spendsmart\\Views\\Home\\CreateEditExpense.cshtml",
+              "RelativeDocumentMoniker": "Spendsmart\\Views\\Home\\CreateEditExpense.cshtml",
+              "ToolTip": "C:\\Users\\oumai\\source\\repos\\Spendsmart\\Spendsmart\\Views\\Home\\CreateEditExpense.cshtml",
+              "RelativeToolTip": "Spendsmart\\Views\\Home\\CreateEditExpense.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T11:42:26.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Expenses.cshtml",
+              "DocumentMoniker": "C:\\Users\\oumai\\source\\repos\\Spendsmart\\Spendsmart\\Views\\Home\\Expenses.cshtml",
+              "RelativeDocumentMoniker": "Spendsmart\\Views\\Home\\Expenses.cshtml",
+              "ToolTip": "C:\\Users\\oumai\\source\\repos\\Spendsmart\\Spendsmart\\Views\\Home\\Expenses.cshtml",
+              "RelativeToolTip": "Spendsmart\\Views\\Home\\Expenses.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T09:09:38.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\oumai\\source\\repos\\Spendsmart\\Spendsmart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Spendsmart\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\oumai\\source\\repos\\Spendsmart\\Spendsmart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Spendsmart\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T09:27:50.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\oumai\\source\\repos\\Spendsmart\\Spendsmart\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Spendsmart\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\oumai\\source\\repos\\Spendsmart\\Spendsmart\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Spendsmart\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T09:02:13.784Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
